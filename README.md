@@ -6,9 +6,9 @@
 ⭐Strong communication skills reflected in the concise and informative email communication with engagement partners, delivering valuable insights and actionable suggestions based on data analysis.     
 ⭐Leveraged analytical problem-solving skills to examine HR data, particularly focusing on gender-related KPIs, and identified root causes for gender balance issues at the executive management level, highlighting a commitment to data-driven decision-making.
 
-## Task2: Call Center Trends
-Problem Statement: Create Power BI Dashboard for 'Call Center' to observe Customer’s and Agent’s Behaviors and their trends 
-Source Data: EXCEL file 
+## Task2: Call Center Trends   
+Problem Statement: Create Power BI Dashboard for 'Call Center' to observe Customer’s and Agent’s Behaviors and their trends        
+Source Data: EXCEL file       
 Goals to be accomplished :  Overall customer satisfaction -Overall calls answered/abandoned -Calls by time -Average speed of answer -Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
 Key Insights:   
@@ -19,9 +19,10 @@ Key Insights:
 ⭐Agent’s performance quadrant: This metric compares the average handle time (talk duration) of each agent with the number of calls they answered. Agents who have a low average handle time and a high number of calls answered are considered to be high-performing, while    agents who have a high average handle time and a low number of calls answered may require additional training or coaching.       
 ⭐Overall, this dashboard provides a clear and concise view of the call center's performance, enabling management to identify areas for improvement and make data-driven decisions to optimize operations.
 
-## Task3: Customer Churn Retention
-Problem Statement:Find out the Customers Churn and Service Churn and reasons ? 
-This task aimed to uncover the reasons for customer churn, i.e., why customers were terminating their service. Through in-depth analysis and exploration of the dataset, I aimed to identify the key factors contributing to customer attrition. By gaining insights into these reasons, churn can be mitigated, and customer retention rates also be improved. 
+## Task3: Customer Churn Retention      
+Problem Statement:Find out the Customers Churn and Service Churn and reasons ?       
+This task aimed to uncover the reasons for customer churn, i.e., why customers were terminating their service. Through in-depth analysis and exploration of the dataset, I aimed to identify the key factors contributing to customer attrition. By gaining insights into these reasons, churn can be mitigated, and customer retention rates also be improved.       
+
 Source Data: EXCEL file
 
 Key Insights:   
@@ -40,11 +41,11 @@ Suggestions:
 ⭐Improve customer service by promptly addressing issues and concerns to bolster satisfaction and minimize churn.     
 ⭐Drive customer engagement and contentment through continuous introduction of new and innovative products/services.
 
-## Task4: Diversity-Inclusion-Gender-Balance-Dashboard-using-Power-BI
-Problem statement: Human Resources at our telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress.
+## Task4: Diversity-Inclusion-Gender-Balance-Dashboard-using-Power-BI      
+Problem statement: Human Resources at our telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress.      
 
 Task Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualization Write what you think some root causes of their slow progress might be Measures to define KPIs No. of men, No. of women, No. of leavers, % employees promoted (FY21), % of women promoted, % of hires men, % of hires women, % turnover , Average performance rating: men, Average Performance rating: women
-Action First analyse the data Perform data exploration and data cleaning Build dashboard using Power BI Make insights report to showcase root cause for slow progress diversity and inclusion in their organisation. Also recommend the action needed to solve the problem based on insights
+Action First analyse the data Perform data exploration and data cleaning Build dashboard using Power BI Make insights report to showcase root cause for slow progress diversity and inclusion in their organisation. Also recommend the action needed to solve the problem based on insights    
 
 Key Insights:     
 ⭐ Hiring Trends: Higher percentages of female hires at Manager and Junior Officer levels showcase our commitment to diversity.     
